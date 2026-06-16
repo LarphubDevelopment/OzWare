@@ -1,1 +1,0 @@
-function LPH_NO_VIRTUALIZE(f) return f end;function LPH_JIT(f) return f end;function LPH_JIT_MAX(f) return f end;
